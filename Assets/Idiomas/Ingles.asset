@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e170bff017b98b840b582e50edc12483, type: 3}
+  m_Name: Ingles
+  m_EditorClassIdentifier: 
+  player1Description: ' Insecure and overprotective, she hides her emotions under
+    a layer of excessive responsibility. She struggles to let others in.'
+  player2Description: 'Stern and methodical, he mirrors the father''s structured
+    mindset. Loyal and disciplined, but struggles with flexibility.
+
+
+'
+  player3Description: Curious and dreamy, Nova is driven by wonder and imagination.
+    She often escapes reality to explore what could be.
+  player4Description: "Cheerful and energetic, she reflects Karen\u2019s innocence
+    and joy. Always ready to play, even in tough times"

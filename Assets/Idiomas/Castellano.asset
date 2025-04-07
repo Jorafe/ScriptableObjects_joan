@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e170bff017b98b840b582e50edc12483, type: 3}
+  m_Name: Castellano
+  m_EditorClassIdentifier: 
+  player1Description: Insegura y sobreprotectora, oculta sus emociones bajo una capa
+    de responsabilidad excesiva. Le cuesta dejarse ayudar.
+  player2Description: "Serio y met\xF3dico, representa la mentalidad estructurada
+    del padre. Es leal y disciplinado, pero le cuesta adaptarse."
+  player3Description: "Curioso y so\xF1ador, se deja llevar por el asombro y la imaginaci\xF3n.
+    Suele evadirse de la realidad para explorar lo posible."
+  player4Description: "Alegre y en\xE9rgica, refleja la inocencia y felicidad de
+    Karen. Siempre dispuesta a jugar, incluso en momentos dif\xEDciles."

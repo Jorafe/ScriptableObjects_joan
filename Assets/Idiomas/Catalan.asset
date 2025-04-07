@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e170bff017b98b840b582e50edc12483, type: 3}
+  m_Name: Catalan
+  m_EditorClassIdentifier: 
+  player1Description: Insegura i sobreprotectora, amaga les seves emocions sota una
+    capa de responsabilitat excessiva. Li costa deixar-se ajudar.
+  player2Description: " Seri\xF3s i met\xF2dic, representa la mentalitat estructurada
+    del pare. Lleial i disciplinat, per\xF2 poc flexible."
+  player3Description: "Curios i somiador, es mou per la meravella i la imaginaci\xF3.
+    Sovint s\u2019escapa de la realitat per explorar el que podria ser."
+  player4Description: "Alegre i en\xE8rgica, reflecteix la innoc\xE8ncia i felicitat
+    de la Karen. Sempre disposada a jugar, fins i tot en moments dif\xEDcils."
